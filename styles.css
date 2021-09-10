@@ -105,7 +105,18 @@ h3{
       height: "400px"
   }
   iframe{
-      margin: 20px;
+      margin: 30px; 
+  }
+
+  .frame{
+    padding: 50px;
+    background-color: #ff4c68;
+    color: #fff;
+  }
+
+  .ifr{
+    margin: 0 200px;
+    border: black solid 10px;
   }
 
   .card {
